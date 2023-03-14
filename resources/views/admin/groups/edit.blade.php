@@ -30,7 +30,7 @@
                                     <a href="{{ route('group.index') }}" class="btn btn-danger">Hủy</a>
                                 </div>
                             </div>
-                        </form>>
+                        </form>
                     </div>
                 </div>
             </div>
